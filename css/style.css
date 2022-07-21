@@ -29,31 +29,31 @@ body
     height: 300px;
     border: 2px solid #191919;
     border-radius: 50%;
-    animation: animate 9s linear infinite;
+    animation: animate 3s linear infinite;
 }
 .circle2
 {
     width: 200px;
     height: 200px;
-    animation: animate 9s linear infinite;
+    animation: animate 3s linear infinite;
 }
 .circle3
 {
     width: 100px;
     height: 100px;
-    animation: animate 9s linear infinite;
+    animation: animate 3s linear infinite;
 }
 .circle4
 {
     width: 400px;
     height: 400px;
-    animation: animate 9s linear infinite;
+    animation: animate 3s linear infinite;
 }
 .circle5
 {
     width: 500px;
     height: 500px;
-    animation: animate 9s linear infinite;
+    animation: animate 3s linear infinite;
 }
 @keyframes animate
 {
